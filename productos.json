@@ -1,0 +1,58 @@
+{
+    "productos": [
+        {
+            "id": "abeec6",
+            "nombre": "La confianza en si mismo",
+            "autor": "Jimmie Powell",
+            "descripcion": "Superar las Dudas al Mejorar la Autoestima, el Amor Propio, la Compasión y la Conciencia Consciente.",
+            "precio": "10000",
+            "stock": 14,
+            "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6gCAxlV-MS5eDjmw5AKVpJgL0vWufFYdPjLAXCWvnnce8Xy9u"
+        },
+        {
+            "nombre": "Sabiduría de los lobos",
+            "autor": "Elli H. Radinger",
+            "descripcion": "Un estimulante libro sobre la sabiduría de los lobos y el poder de la naturaleza.",
+            "precio": "5900",
+            "stock": "10",
+            "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6kqJnnaaeK2voWtERYVtrNBkixzr6LIXI84gS-G-ZQS0NxDie",
+            "id": "8d857c"
+        },
+        {
+            "nombre": "El libro que ojalá tus padres te hubieran leído.",
+            "autor": "Philippa Perry",
+            "descripcion": "En este libro, la reconocida psicoterapeuta británica Philippa Perry nos dice qué es lo que realmente importa y qué tipo de comportamientos debemos evitar en la relación con nuestros hijos, ofreciéndonos pautas para guiar a los hijos.",
+            "precio": "12000",
+            "stock": "25",
+            "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSe4F4McSQz0mMBTtxQZmZCUtiTGaK16dacBLktS9COq_u7YpB5SYwVT0RIlDyR15dkKtMgUOHwnw&usqp=CAc",
+            "id": "51bab7"
+        },
+        {
+            "nombre": "El Poder de Confiar en ti",
+            "autor": "Curro Cañete",
+            "descripcion": "El poder de confiar en ti te invita a convertirte en tu propio coach y a ser tu propio guía con pautas y ejercicios para que aprendas a sentirte bien y a hacer realidad tus verdaderos deseos y aspiraciones.",
+            "precio": "11800",
+            "stock": "10",
+            "img": "https://images.cdn3.buscalibre.com/fit-in/360x360/a0/b7/a0b7ca5b8ecb0a9646c618a103c4bf07.jpg",
+            "id": "31063d"
+        },
+        {
+            "nombre": "El Pequeño Libro de la Superación Personal",
+            "autor": "Josef Ajram",
+            "descripcion": "300 frases que te ayudarán a ser el dueño de tu vida Por primera vez reunidos los volúmenes 1, 2 y 3 deEl pequeño libro de la superación personal, una recopilación de frases, citas y máximas en las que el atleta de pruebas extremas, empresario y coach personal, Josef Ajram ha encontrado fuerza y motivación para conseguir sus retos y objetivos.",
+            "precio": "43000",
+            "stock": "24",
+            "img": "https://image.cdn0.buscalibre.com/60e395dd8463b5f3158bf853.__RS360x360__.jpg",
+            "id": "33f440"
+        },
+        {
+            "nombre": "Nunca te Rindas: El Poder de la Perseverancia\"",
+            "autor": "Claudio de Castro",
+            "descripcion": "NUNCA TE RINDAS Este libro extraordinario ha llegado a miles de lectores ayudándolos a mejorar su calidad de vida y conquistar sus sueños. ¿Te gustaría SER EXITOSO? Estás cansado de intentarlo sin resultados? ¿Quieres cambiar tu vida? Este libro del conocido escritor Claudio de Castro te ayudará.",
+            "precio": "27800",
+            "stock": "30",
+            "img": "https://images.cdn1.buscalibre.com/fit-in/360x360/86/2c/862c1d599f3b6f6e146c0b5026ab5294.jpg",
+            "id": "d02df4"
+        }
+    ]
+}
